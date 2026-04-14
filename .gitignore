@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.pt
+*.onnx
+data/runs/
+outputs/

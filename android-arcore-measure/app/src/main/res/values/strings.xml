@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR Tape Measure</string>
+    <string name="instruction">Point the blue crosshair to surface, tap Start, move camera, tap Stop.</string>
+    <string name="distance_default">Distance: 0.00 cm</string>
+    <string name="start_measurement">Start</string>
+    <string name="stop_measurement">Stop</string>
+    <string name="reset">Reset</string>
+</resources>
